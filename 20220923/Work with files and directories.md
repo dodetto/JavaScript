@@ -19,3 +19,7 @@ Write the totals.txt file:
 Write the total to the totals.txt file:
 
 ![image](https://user-images.githubusercontent.com/50045282/194039354-eaa6c1ff-47f4-4b13-9889-9b3679cde84b.png)
+
+Test result: 
+
+![image](https://user-images.githubusercontent.com/50045282/194040220-f1e4140a-1f7c-4e8d-9e7f-cb49f0ab6209.png)
