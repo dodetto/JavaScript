@@ -24,3 +24,7 @@ Run the Express program and invoke the middleware:
 Run the Express program with client authorization
 
 ![image](https://user-images.githubusercontent.com/50045282/194045819-ddfce682-3ccc-47e3-952b-85e0999a4c78.png)
+
+Test Result:
+
+![image](https://user-images.githubusercontent.com/50045282/194045934-0534e16d-8560-4776-95dd-88cfa75bb6ab.png)
