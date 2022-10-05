@@ -34,3 +34,9 @@ Implement CRUD:
 
 ![image](https://user-images.githubusercontent.com/50045282/194047696-cd36d531-ad3b-445d-a00c-f0548b439535.png)
 
+Test results:
+
+![image](https://user-images.githubusercontent.com/50045282/194048008-8d85d33f-9b2e-440c-9298-54fb04ee7c32.png)
+
+
+
