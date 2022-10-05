@@ -17,3 +17,10 @@ Add basic authorization to an Express framework:
 
 ![image](https://user-images.githubusercontent.com/50045282/194045517-df97f513-3955-42e5-8cb4-6ba5d4bc0be8.png)
 
+Run the Express program and invoke the middleware:
+
+![image](https://user-images.githubusercontent.com/50045282/194045610-7910a7a0-844e-4f78-8bee-4970d255ccc2.png)
+
+Run the Express program with client authorization
+
+![image](https://user-images.githubusercontent.com/50045282/194045819-ddfce682-3ccc-47e3-952b-85e0999a4c78.png)
