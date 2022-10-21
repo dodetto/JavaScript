@@ -1,4 +1,5 @@
-1, Node.js crash course tutorial: https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
+1, Projekt kiválasztása, megbeszélés
 
-2, MongoDb regisztráció, működés átnézése
+2, Node.js crash course tutorial: https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
 
+3, MongoDb regisztráció, működés átnézése
