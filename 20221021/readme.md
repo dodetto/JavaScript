@@ -1,3 +1,5 @@
 1, MongoDB regisztráció, adatbázis konfigurálása
 
-NPM csomagok működésének átnézése: dotenv, ejs, express, mongoose, helmet, xss-clean
+2, NPM csomagok működésének átnézése: ejs, express, mongoose
+
+3, Create, Read műveletek készítése, megjelenítése frontenden ejs segítségével
